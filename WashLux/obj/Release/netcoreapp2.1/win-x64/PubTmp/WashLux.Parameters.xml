@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="dvvdev.ru" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\dvv27\\source\\repos\\WashLux\\WashLux\\obj\\Release\\netcoreapp2\.1\\win-x64\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

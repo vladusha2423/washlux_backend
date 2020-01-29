@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 100vh;
+    background: url("../images/header_nissan.jpg") top center;
+    background-size: cover;
+}
+#header-1{
+    background: url("../images/header-2.jpg") top center;
+    background-size: cover;
+}
+#header-2{
+    background: url("../images/header-3.jpg") top center;
+    background-size: cover;
+}
+#header-3{
+    background: url("../images/header-1.jpg") top center;
+    background-size: cover;
+}
+#address{
+    width: 100%;
+    position: absolute;
+    top: calc(100vh - 200px);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+#address-container{
+    font-family: 'Montserrat', sans-serif;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: 1160px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /*flex-wrap: wrap;*/
+    margin-bottom: 40px;
+}
+.address{
+    width: 240px;
+    height: 150px;
+    border-radius: 20px;
+    border: 6px solid #eeeeee;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: url("../images/Header-points.png") top center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size: 19px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+.address:hover{
+    transform: scale(1.07);
+    transition: 0.2s;
+}
+.call{
+    border-radius: 8px;
+    margin-top: 35px;
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-align: center;
+}
+.call:hover{
+    background-color: #d00000;
+    color: #eeeeee;
+}
+.address-text{
+    margin-top: 30px;
+}
+@media (max-width: 1200px){
+    .address{
+        height: 120px;
+        border: 5px solid #eeeeee;
+        margin-bottom: 20px;
+    }
+    #address{
+        top: calc(100vh - 320px);
+    }
+    #address-container{
+        width: 600px;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+    .address-text{
+        margin-top: 10px;
+    }
+    .call{
+        margin-top: 30px;
+        height: 50px;
+    }
+}
+@media(max-width: 600px){
+    .address{
+        width: 190px;
+        border: 4px solid #eeeeee;
+        font-size: 15px;
+    }
+    .call{
+        width: 170px;
+    }
+}
+@media (max-width: 500px){
+    #address-container{
+        width: 300px;
+        height: 200px;
+        /*flex-direction: column;*/
+    }
+    #address{
+        top: calc(100vh - 420px);
+    }
+    .address{
+        height: 80px;
+        border: 5px solid #eeeeee;
+        width: 240px;
+        margin-bottom: 10px;
+    }
+    .call{
+        height: 35px;
+        margin-top: 8px;
+    }
+}

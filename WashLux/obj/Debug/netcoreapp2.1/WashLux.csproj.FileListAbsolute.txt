@@ -1,0 +1,17 @@
+C:\Users\dvv27\source\repos\WashLux\WashLux\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\dvv27\source\repos\WashLux\WashLux\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\dvv27\source\repos\WashLux\WashLux\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\dvv27\source\repos\WashLux\WashLux\bin\Debug\netcoreapp2.1\WashLux.deps.json
+C:\Users\dvv27\source\repos\WashLux\WashLux\bin\Debug\netcoreapp2.1\WashLux.runtimeconfig.json
+C:\Users\dvv27\source\repos\WashLux\WashLux\bin\Debug\netcoreapp2.1\WashLux.runtimeconfig.dev.json
+C:\Users\dvv27\source\repos\WashLux\WashLux\bin\Debug\netcoreapp2.1\WashLux.dll
+C:\Users\dvv27\source\repos\WashLux\WashLux\bin\Debug\netcoreapp2.1\WashLux.pdb
+C:\Users\dvv27\source\repos\WashLux\WashLux\obj\Debug\netcoreapp2.1\WashLux.csprojAssemblyReference.cache
+C:\Users\dvv27\source\repos\WashLux\WashLux\obj\Debug\netcoreapp2.1\WashLux.RazorAssemblyInfo.cache
+C:\Users\dvv27\source\repos\WashLux\WashLux\obj\Debug\netcoreapp2.1\WashLux.RazorAssemblyInfo.cs
+C:\Users\dvv27\source\repos\WashLux\WashLux\obj\Debug\netcoreapp2.1\WashLux.AssemblyInfoInputs.cache
+C:\Users\dvv27\source\repos\WashLux\WashLux\obj\Debug\netcoreapp2.1\WashLux.AssemblyInfo.cs
+C:\Users\dvv27\source\repos\WashLux\WashLux\obj\Debug\netcoreapp2.1\WashLux.RazorTargetAssemblyInfo.cache
+C:\Users\dvv27\source\repos\WashLux\WashLux\obj\Debug\netcoreapp2.1\WashLux.dll
+C:\Users\dvv27\source\repos\WashLux\WashLux\obj\Debug\netcoreapp2.1\WashLux.pdb
+C:\Users\dvv27\source\repos\WashLux\WashLux\bin\Debug\netcoreapp2.1\web.config
